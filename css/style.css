@@ -1,0 +1,19 @@
+.ws-form-group .ws-hidden {
+    display: none
+}
+
+.ws-form-group .ws-form-control {
+    margin-bottom: 5px
+}
+
+.ws-form-group .ws-warning-textarea, .ws-form-group .ws-warning-input[type="text"] {
+    background: #D87D7D
+}
+
+.ws-form-group .ws-message-error {
+    color: #EF0000
+}
+
+.ws-form-group .ws-message-successful {
+    color: #00B24D
+}
